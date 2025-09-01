@@ -8,13 +8,6 @@ Microsoft
 NVIDIA
 黄仁勋
 
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
 three.js
 
 cocos
