@@ -29,3 +29,6 @@ unreal engine
 
 node.js
 express.js
+
+JavaScript
+TypeScript
