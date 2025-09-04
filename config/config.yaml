@@ -83,8 +83,6 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
-  - id: "github-trending-today"
-    name: "Github今日趋势"
   - id: "v2ex"
     name: "v2ex share"
   - id: "fastbull"
